@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **gialongbaohung@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing](https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing)
+- 📄 CV and my experiences [https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing](https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
