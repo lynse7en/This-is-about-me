@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
+![ảnh](https://github.com/user-attachments/assets/546d05e1-5f76-4ab3-827b-fc66e76cb218)<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">A Aspiring Data Analyst/Business Intelligence from Vietnam</h3>
 
 - 🌱 I’m finished learning and improving **Data Analyst/Machine Learning/Business Intelligence**
+  
+- 🔭 Highlight project from my portfolio  on [Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
 
