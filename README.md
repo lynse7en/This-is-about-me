@@ -1,5 +1,5 @@
-Hi 👋, I'm Giã Long Bảo Hưng</h1>
-<h3 align="center">A Aspiring Data Analyst/Business Intelligence from Vietnam</h3>
+<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
+<h3 align="center">A Aspiring Data Analyst/Business Inteligence from Vietnam</h3>
 
 - 🌱 I’m finished learning and improving **Data Analyst/Machine Learning/Business Intelligence**
   
