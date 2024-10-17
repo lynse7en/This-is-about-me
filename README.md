@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
-<h3 align="center">A Aspiring Data Analyst/Business Inteligence from Vietnam</h3>
+<h3 align="center">A Aspiring Data Analyst/Business Intelligence from Vietnam</h3>
 
-- 🌱 I’m currently learning **Machine Learning Model Conduct**
+- 🌱 I’m finished learning and improving **Data Analyst/Machine Learning/Business Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
 
