@@ -6,7 +6,9 @@
 - 🔭 Highlight project from my portfolio on **(Video Included)** [Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
-
+  
+- 📝 My Tableau Profile available at [https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link] (https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link)
+  
 - 💬 Ask me about **SQL, Python, Pandas, Statistic, Power BI, Tableau**
 
 - 📫 How to reach me **gialongbaohung@gmail.com**
