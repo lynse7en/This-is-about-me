@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
 
-- 💬 Ask me about **SQL, Python, Pandas, Statistic, Power BI**
+- 💬 Ask me about **SQL, Python, Pandas, Statistic, Power BI, Tableau**
 
 - 📫 How to reach me **gialongbaohung@gmail.com**
 
