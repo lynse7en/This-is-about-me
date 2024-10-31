@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
   
-- 📝 My Tableau Profile available at [https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link] (https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link)
+- 📝 My Tableau Profile available at [https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link](https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link)
   
 - 💬 Ask me about **SQL, Python, Pandas, Statistic, Power BI, Tableau**
 
