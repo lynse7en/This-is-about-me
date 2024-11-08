@@ -4,6 +4,15 @@
 - 🌱 I’m finished learning and improving **Data Analyst/Machine Learning/Business Intelligence**
   
 - 🔭 Highlight project from my portfolio on **(Video Included)** [Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)
+•	Description: In this project, I analyzed the business performance of a supermarket chain 
+•	Responsibilities:
+  •	Identified peak sales trends through time-series analysis. Enable comparison between peak months and other months.
+  •	Segmented customers using RFM analysis. Provide advice to the business owner based on each customer segment.
+  •	Forcasting future sales using SARIMA model
+•	Tech stack: Python, Matplotlib, Plotly, PowerBI, statsmodels.api and scikit-learn (Libraries of Python)
+•	Achievement & Result 
+•	Deliver valuable insights into key sales patterns.
+•	Apply the SARIMA machine learning model to forecast sales for the business.
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
   
