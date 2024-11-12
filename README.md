@@ -17,10 +17,10 @@
     - Successfully forecasted sales trends, offering actionable predictions for business planning.
 - 🔭 Featured Project: **[Human Resource Attrition Rate Analysis Project](https://drive.google.com/drive/folders/1csc2LAc6vdH1W5VGSl6b2BME09-htPPs?usp=drive_link)**
  **Project Overview**:
-- **Description**: This project analyzes the factors that have the most significant impact on the attrition rate, which refers to employees' decisions to leave the organization.
-- **Responsibilities**: Conduct exploratory data analysis (EDA) and utilize machine learning algorithms (logistic regression and random forest) to identify the key factors influencing the attrition rate.
-- **Tech Stack**: Python,Seaborn, Matplotlib, Power BI, and scikit-learn
-- **Achievements**: Identified that the factors most affecting the attrition rate are OVERTIME and JOB LEVEL.
+  - **Description**: This project analyzes the factors that have the most significant impact on the attrition rate, which refers to employees' decisions to leave the organization.
+  - **Responsibilities**: Conduct exploratory data analysis (EDA) and utilize machine learning algorithms (logistic regression and random forest) to identify the key factors influencing the attrition rate.
+  - **Tech Stack**: Python,Seaborn, Matplotlib, Power BI, and scikit-learn
+  - **Achievements**: Identified that the factors most affecting the attrition rate are OVERTIME and JOB LEVEL.
 - 👨‍💻 View all of my projects here: [Portfolio](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
   
 - 📝 Check out my **[Tableau Profile](https://public.tableau.com/shared/J6P75TF38?:display_count=n&:origin=viz_share_link)**
