@@ -1,4 +1,4 @@
-![ảnh](https://github.com/user-attachments/assets/6760fb1d-c1d7-4fba-90b1-5cdf0e401275)<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
+<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
 - 🌱 I’ve completed studies in **Data Analysis, Machine Learning, and Business Intelligence**.
