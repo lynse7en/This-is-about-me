@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
-- 🌱 I’ve completed studies in **Data Analysis, Machine Learning, and Business Intelligence**.
+- 🌱 I hold a **Master's Degree in Finance** and have completed studies in **Data Analysis, Machine Learning, and Business Intelligence** from CoderSchool.
   
 - 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
 
