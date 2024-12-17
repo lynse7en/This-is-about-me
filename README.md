@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
-<h3 align="center">Aspiring Data Analyst/Business Intelligence Specialist from Vietnam</h3>
+![ảnh](https://github.com/user-attachments/assets/6760fb1d-c1d7-4fba-90b1-5cdf0e401275)<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
+<h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
 - 🌱 I’ve completed studies in **Data Analysis, Machine Learning, and Business Intelligence**.
   
@@ -25,7 +25,7 @@
   
 - 📝 Check out my **[Tableau Report](https://public.tableau.com/views/TradeOperationsReport-VIETBANK/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
-- 💬 Ask me about **SQL, Python, Pandas, Statistics, Power BI, Tableau**
+- 💬 Ask me about **SQL, Python, Pandas, Statistics, Power BI, Tableau, Financial Statement**
 
 - 📫 Reach me at **gialongbaohung@gmail.com**
 
