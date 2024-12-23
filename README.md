@@ -23,7 +23,7 @@
   - **Achievements**: Identified that the factors most affecting the attrition rate are OVERTIME and JOB LEVEL.
 - 👨‍💻 View all of my projects here: [Portfolio](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
   
-- 📝 Check out my **[Tableau Report](https://public.tableau.com/views/TradeOperationsReport-VIETBANK/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+- 📝 Check out my Visualization Report **[Tableau Link](https://public.tableau.com/views/TradeOperationsReport-VIETBANK/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** Or **[Google Drive Link](https://drive.google.com/drive/folders/19-XAWtyx2E5sihv74phzdo23xR3bFhkv?usp=drive_link)**
 
 - 💬 Ask me about **SQL, Python, Pandas, Statistics, Power BI, Tableau, Financial Statement**
 
