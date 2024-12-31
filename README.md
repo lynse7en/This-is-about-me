@@ -2,9 +2,22 @@
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
 - 🌱 I hold a **Master's Degree in Finance** and have completed studies in **Data Analysis, Machine Learning, and Business Intelligence** from CoderSchool.
-  
-- 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
+- 🔭 Featured Project: **[VNINDEX Forecast Project](https://drive.google.com/drive/folders/1u8slNpAD5hwDxLvj3G6ulLf6ITLCa0jO?usp=drive_link)**
+ **Project Overview**:
+  - **Description**: This project involves building a SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast the VNINDEX (Vietnam Stock Index) using 10 years of weekly historical data. The goal was to predict future index values and evaluate the model's accuracy using various statistical tests and error metrics.
+  - **Responsibilities**:
+  - Collected and preprocessed 10 years of weekly VNINDEX data.
+  - Applied data transformations such as handling missing values, converting time series data formats, and ensuring stationarity.
+  - Built and trained a SARIMA model, selecting optimal parameters based on AIC, BIC, and other criteria.
+  - Evaluated model performance using Static and Dynamic forecasting methods and compared their accuracy.
+  - Conducted residual analysis to ensure the model met assumptions like no autocorrelation, homoscedasticity, and white noise.
+  - **Tech Stack**: Python, Seaborn, Matplotlib, scikit-learn, statsmodels, pandas, numpy
+  - **Achievements**:
+  - Successfully developed and implemented the SARIMA model for forecasting VNINDEX, achieving reliable predictions with minimal error.
+  - Conducted extensive model diagnostics, including testing for autocorrelation, heteroscedasticity, and white noise in the residuals.
+  - Concluded that the model provides a good balance between accuracy and forecasting capability, with the static forecast being optimal for short-term predictions and dynamic forecast suitable for long-term predictions despite slightly lower accuracy.
 
+- 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
   **Project Overview**:
   - **Description**: This project involved analyzing the business performance of a supermarket chain.
   - **Responsibilities**:
@@ -15,12 +28,7 @@
   - **Achievements**:
     - Gained valuable insights into key sales patterns.
     - Successfully forecasted sales trends, offering actionable predictions for business planning.
-- 🔭 Featured Project: **[Human Resource Attrition Rate Analysis Project](https://drive.google.com/drive/folders/1csc2LAc6vdH1W5VGSl6b2BME09-htPPs?usp=drive_link)**
- **Project Overview**:
-  - **Description**: This project analyzes the factors that have the most significant impact on the attrition rate, which refers to employees' decisions to leave the organization.
-  - **Responsibilities**: Conduct exploratory data analysis (EDA) and utilize machine learning algorithms (logistic regression and random forest) to identify the key factors influencing the attrition rate.
-  - **Tech Stack**: Python,Seaborn, Matplotlib, Power BI, and scikit-learn
-  - **Achievements**: Identified that the factors most affecting the attrition rate are OVERTIME and JOB LEVEL.
+
 - 👨‍💻 View all of my projects here: [Portfolio](https://drive.google.com/drive/folders/1qs69MVIJVaHxqLAt6wNElZNWTdZJkQGM?usp=drive_link)
   
 - 📝 Check out my Visualization Report **[Tableau Link](https://public.tableau.com/views/TradeOperationsReport-VIETBANK/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** Or **[Google Drive Link](https://drive.google.com/drive/folders/19-XAWtyx2E5sihv74phzdo23xR3bFhkv?usp=drive_link)**
