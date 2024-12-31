@@ -6,16 +6,16 @@
  **Project Overview**:
   - **Description**: This project involves building a SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast the VNINDEX (Vietnam Stock Index) using 10 years of weekly historical data. The goal was to predict future index values and evaluate the model's accuracy using various statistical tests and error metrics.
   - **Responsibilities**:
-  - Collected and preprocessed 10 years of weekly VNINDEX data.
-  - Applied data transformations such as handling missing values, converting time series data formats, and ensuring stationarity.
-  - Built and trained a SARIMA model, selecting optimal parameters based on AIC, BIC, and other criteria.
-  - Evaluated model performance using Static and Dynamic forecasting methods and compared their accuracy.
-  - Conducted residual analysis to ensure the model met assumptions like no autocorrelation, homoscedasticity, and white noise.
+    - Collected and preprocessed 10 years of weekly VNINDEX data.
+    - Applied data transformations such as handling missing values, converting time series data formats, and ensuring stationarity.
+    - Built and trained a SARIMA model, selecting optimal parameters based on AIC, BIC, and other criteria.
+    - Evaluated model performance using Static and Dynamic forecasting methods and compared their accuracy.
+    - Conducted residual analysis to ensure the model met assumptions like no autocorrelation, homoscedasticity, and white noise.
   - **Tech Stack**: Python, Seaborn, Matplotlib, scikit-learn, statsmodels, pandas, numpy
   - **Achievements**:
-  - Successfully developed and implemented the SARIMA model for forecasting VNINDEX, achieving reliable predictions with minimal error.
-  - Conducted extensive model diagnostics, including testing for autocorrelation, heteroscedasticity, and white noise in the residuals.
-  - Concluded that the model provides a good balance between accuracy and forecasting capability, with the static forecast being optimal for short-term predictions and dynamic forecast suitable for long-term predictions despite slightly lower accuracy.
+    - Successfully developed and implemented the SARIMA model for forecasting VNINDEX, achieving reliable predictions with minimal error.
+    - Conducted extensive model diagnostics, including testing for autocorrelation, heteroscedasticity, and white noise in the residuals.
+    - Concluded that the model provides a good balance between accuracy and forecasting capability, with the static forecast being optimal for short-term predictions and dynamic forecast suitable for long-term predictions despite slightly lower accuracy.
 
 - 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
   **Project Overview**:
