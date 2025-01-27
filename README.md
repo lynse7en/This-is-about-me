@@ -16,7 +16,10 @@
     - Successfully developed and implemented the SARIMA model for forecasting VNINDEX, achieving reliable predictions with minimal error.
     - Conducted extensive model diagnostics, including testing for autocorrelation, heteroscedasticity, and white noise in the residuals.
     - Concluded that the model provides a good balance between accuracy and forecasting capability, with the static forecast being optimal for short-term predictions and dynamic forecast suitable for long-term predictions despite slightly lower accuracy.
-
+- 🔭 Featured Project (VBA Version): **[VNINDEX Forecast Project - VBA Implementation](https://drive.google.com/file/d/1r5G5UUdPdpWjU6pCWCa4K2y_tSpIx22B/view?usp=drive_link)**
+  **Project Overview**:
+  - **Description**: This version of the VNINDEX Forecast Project implements a forecasting solution using VBA (Visual Basic for Applications). The application processes historical weekly VNINDEX data and generates predictions based on user-defined forecast horizons. Results are displayed as both data and visualizations in a dedicated worksheet.
+  - **Tech Stack**: VBA, Excel Charts, Data Processing
 - 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
   **Project Overview**:
   - **Description**: This project involved analyzing the business performance of a supermarket chain.
