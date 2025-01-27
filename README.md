@@ -33,7 +33,7 @@
   
 - 📝 Check out my Visualization Report **[Tableau Link](https://public.tableau.com/views/TradeOperationsReport-VIETBANK/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)** Or **[Google Drive Link](https://drive.google.com/drive/folders/19-XAWtyx2E5sihv74phzdo23xR3bFhkv?usp=drive_link)**
 
-- 💬 Ask me about **SQL, Python, Pandas, Statistics, Power BI, Tableau, Financial Statement**
+- 💬 Ask me about **SQL, Python, Pandas, Statistics, Power BI, Tableau,VBA (Excel) Financial Statement**
 
 - 📫 Reach me at **gialongbaohung@gmail.com**
 
