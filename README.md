@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
 - 🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”.
-- # **🔭 Featured Project Predicting HR Employee Attrition using Logistic Regression, Random Forest, and XGBoost**
+# **🔭 Featured Project: Predicting HR Employee Attrition using Logistic Regression, Random Forest, and XGBoost**
 📌 **Colab Notebook**: [View Project](https://colab.research.google.com/drive/1xyV92cfD5dnvPfkA2DOrZ_7qteD8BeGa?usp=drive_link)
 ---
 ## 📖 Project Overview
@@ -28,7 +28,7 @@
 - Hands-on experience in comparing multiple ML models for a real-world HR problem.  
 - Understanding trade-offs between **interpretability (Logistic Regression)** and **predictive performance (XGBoost, Random Forest)**.  
 - Gained skills in building a complete ML workflow: data preparation → model comparison → model selection → business insights.
-**🔭 Featured Project (Video Included):** **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
+#**🔭 Featured Project (Video Included):** **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
   **Project Overview**:
   - **Description**: This project involved analyzing the business performance of a supermarket chain.
   - **Responsibilities**:
