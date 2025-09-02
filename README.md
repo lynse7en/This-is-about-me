@@ -1,27 +1,34 @@
 <img width="5799" height="53" alt="image" src="https://github.com/user-attachments/assets/b0e3ebf8-fb10-44f4-8a77-58a7cfdb1295" /><h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
-- 🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”
-.
-- 🔭 Featured Project: **[VNINDEX Forecast Project](https://drive.google.com/drive/folders/1u8slNpAD5hwDxLvj3G6ulLf6ITLCa0jO?usp=drive_link)**
- **Project Overview**:
-  - **Description**: This project involves building a SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast the VNINDEX (Vietnam Stock Index) using 10 years of weekly historical data. The goal was to predict future index values and evaluate the model's accuracy using various statistical tests and error metrics.
-  - **Responsibilities**:
-    - Collected and preprocessed 10 years of weekly VNINDEX data.
-    - Applied data transformations such as handling missing values, converting time series data formats, and ensuring stationarity.
-    - Built and trained a SARIMA model, selecting optimal parameters based on AIC, BIC, and other criteria.
-    - Evaluated model performance using Static and Dynamic forecasting methods and compared their accuracy.
-    - Conducted residual analysis to ensure the model met assumptions like no autocorrelation, homoscedasticity, and white noise.
-  - **Tech Stack**: Python, Seaborn, Matplotlib, scikit-learn, statsmodels, pandas, numpy
-  - **Achievements**:
-    - Successfully developed and implemented the SARIMA model for forecasting VNINDEX, achieving reliable predictions with minimal error.
-    - Conducted extensive model diagnostics, including testing for autocorrelation, heteroscedasticity, and white noise in the residuals.
-    - Concluded that the model provides a good balance between accuracy and forecasting capability, with the static forecast being optimal for short-term predictions and dynamic forecast suitable for long-term predictions despite slightly lower accuracy.
-- 🔭 Featured Project (VBA Version): **[VNINDEX Forecast Project - VBA Implementation](https://drive.google.com/file/d/1r5G5UUdPdpWjU6pCWCa4K2y_tSpIx22B/view?usp=drive_link)**
-  **Project Overview**:
-  - **Description**: This version of the VNINDEX Forecast Project implements a forecasting solution using VBA (Visual Basic for Applications). The application processes historical weekly VNINDEX data and generates predictions based on user-defined forecast horizons. Results are displayed as both data and visualizations in a dedicated worksheet.
-  - **Tech Stack**: VBA, Excel Charts, Data Processing
-- 🔭 Featured Project (Video Included): **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
+- 🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”.
+- # **🔭 Featured Project Predicting HR Employee Attrition using Logistic Regression, Random Forest, and XGBoost**
+📌 **Colab Notebook**: [View Project](https://colab.research.google.com/drive/1xyV92cfD5dnvPfkA2DOrZ_7qteD8BeGa?usp=drive_link)
+---
+## 📖 Project Overview
+- **Description**: This project focuses on predicting employee attrition in an HR dataset using multiple machine learning models. By identifying key factors that drive attrition, the project aims to help HR teams take proactive actions to improve employee retention.  
+- **Responsibilities**:
+  - **Data Preprocessing & Cleaning**: Handled missing values, categorical encoding, and feature scaling for model readiness.  
+  - **Exploratory Data Analysis (EDA)**: Analyzed attrition patterns by demographics, tenure, and job roles using visualizations.  
+  - **Model Development**: Built and compared **Logistic Regression, Random Forest, and XGBoost** to predict attrition.  
+  - **Model Evaluation**: Assessed models using accuracy, precision, recall, F1-score, and ROC-AUC.  
+  - **Model Selection**: Compared trade-offs between interpretability and predictive performance, ultimately selecting **Logistic Regression** as the most suitable model for HR decision-making.  
+  - **Insights & Recommendations**: Highlighted key drivers of attrition and suggested HR strategies for employee engagement.  
+---
+## 🛠 Tech Stack
+- **Languages & Tools**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost  
+- **Techniques**: Data Preprocessing, EDA, Classification Models, Model Comparison & Selection, Feature Importance  
+---
+## 🌟 Achievements
+- Built and benchmarked three models: **Logistic Regression, Random Forest, and XGBoost**.  
+- **Logistic Regression** was chosen as the final model for its **explainability**, enabling HR leaders to understand the impact of each factor on attrition.  
+- Identified critical features influencing attrition such as job satisfaction, tenure, and salary.  
+- Delivered actionable insights to support **data-driven HR decision-making**.  
+## 🎯 Key Learning Outcomes
+- Hands-on experience in comparing multiple ML models for a real-world HR problem.  
+- Understanding trade-offs between **interpretability (Logistic Regression)** and **predictive performance (XGBoost, Random Forest)**.  
+- Gained skills in building a complete ML workflow: data preparation → model comparison → model selection → business insights.
+**🔭 Featured Project (Video Included):** **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
   **Project Overview**:
   - **Description**: This project involved analyzing the business performance of a supermarket chain.
   - **Responsibilities**:
