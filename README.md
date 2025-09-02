@@ -28,6 +28,30 @@
 - Hands-on experience in comparing multiple ML models for a real-world HR problem.  
 - Understanding trade-offs between **interpretability (Logistic Regression)** and **predictive performance (XGBoost, Random Forest)**.  
 - Gained skills in building a complete ML workflow: data preparation → model comparison → model selection → business insights.
+# **🔭 Featured Project: HR Data ETL Pipeline and Analytics Project**
+📌 **GitHub Repository**: [View Project](https://github.com/lynse7en/sql-data-warehouse-project)
+---
+## 📖 Project Overview
+- **Description**: This project demonstrates the design and implementation of a modern HR Data Warehouse using the Medallion Architecture (**Bronze, Silver, Gold layers**). It consolidates HR data from multiple sources into a centralized warehouse, enabling advanced analytics and actionable insights.  
+- **Responsibilities**:
+  - Designed **data architecture** with Bronze (raw data), Silver (cleaned & standardized), and Gold (business-ready) layers.  
+  - Built **ETL pipelines** to ingest and transform CSV data into SQL Server/PostgreSQL.  
+  - Developed **fact and dimension tables** for optimized analytical queries.  
+  - Created **SQL-based reports and BI dashboards** to analyze HR headcount, distribution, and resignation trends.  
+---
+## 🛠 Tech Stack
+- **Languages & Tools**: SQL Server, PostgreSQL, SQL, Python, Tableau/Power BI  
+- **Techniques**: Data Warehousing, ETL, Data Modeling, BI Reporting  
+---
+## 🌟 Achievements
+- Delivered a **scalable and business-ready HR Data Warehouse** using Medallion Architecture.  
+- Improved **data quality and consistency** through systematic cleansing and standardization.  
+- Enabled **data-driven HR decision-making** with curated dashboards and integrated reporting.  
+---
+## 🎯 Key Learning Outcomes
+- Practical experience in **building a modern data warehouse** from raw ingestion to business-ready data.  
+- Application of **ETL pipelines, data modeling, and BI dashboards** in a real HR domain scenario.  
+- Understanding how to transform raw HR data into **strategic insights** for stakeholders.  
 # **🔭 Featured Project (Video Included):Advanced Retail Chain Analysis: Customer Segmentation and Forecasting**
 📌 **[View Project](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
 ---
