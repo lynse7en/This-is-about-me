@@ -35,12 +35,12 @@
 - **Description**: This project demonstrates the design and implementation of a modern HR Data Warehouse using the Medallion Architecture (**Bronze, Silver, Gold layers**). It consolidates HR data from multiple sources into a centralized warehouse, enabling advanced analytics and actionable insights.  
 - **Responsibilities**:
   - Designed **data architecture** with Bronze (raw data), Silver (cleaned & standardized), and Gold (business-ready) layers.  
-  - Built **ETL pipelines** to ingest and transform CSV data into SQL Server/PostgreSQL.  
+  - Built **ETL pipelines** to ingest and transform CSV data into PostgreSQL.  
   - Developed **fact and dimension tables** for optimized analytical queries.  
   - Created **SQL-based reports and BI dashboards** to analyze HR headcount, distribution, and resignation trends.  
 ---
 ## 🛠 Tech Stack
-- **Languages & Tools**: SQL Server, PostgreSQL, SQL, Python, Tableau/Power BI  
+- **Languages & Tools**: PostgreSQL, SQL, Python, Tableau/Power BI  
 - **Techniques**: Data Warehousing, ETL, Data Modeling, BI Reporting  
 ---
 ## 🌟 Achievements
