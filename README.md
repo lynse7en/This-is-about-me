@@ -1,7 +1,7 @@
 <img width="5799" height="53" alt="image" src="https://github.com/user-attachments/assets/b0e3ebf8-fb10-44f4-8a77-58a7cfdb1295" /><h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
-- 🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”.
+🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”.
 # **🔭 Featured Project: Predicting HR Employee Attrition using Logistic Regression, Random Forest, and XGBoost**
 📌 **Colab Notebook**: [View Project](https://colab.research.google.com/drive/1xyV92cfD5dnvPfkA2DOrZ_7qteD8BeGa?usp=drive_link)
 ---
