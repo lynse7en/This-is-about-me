@@ -28,7 +28,9 @@
 - Hands-on experience in comparing multiple ML models for a real-world HR problem.  
 - Understanding trade-offs between **interpretability (Logistic Regression)** and **predictive performance (XGBoost, Random Forest)**.  
 - Gained skills in building a complete ML workflow: data preparation → model comparison → model selection → business insights.
-# **🔭 Featured Project (Video Included):** **[Advanced Retail Chain Analysis: Customer Segmentation and Forecasting](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)**
+# **🔭 Featured Project (Video Included):Advanced Retail Chain Analysis: Customer Segmentation and Forecasting**
+📌 **[View Project](https://drive.google.com/drive/folders/1hxdhZYiACdo-qTNNRiJr5fgVIpUvOWbz?usp=drive_link)
+**
   **Project Overview**:
   - **Description**: This project involved analyzing the business performance of a supermarket chain.
   - **Responsibilities**:
