@@ -40,7 +40,7 @@
 
 - 📫 Reach me at **gialongbaohung@gmail.com**
 
-- 📄 My CV and experiences: [Resume and Slide](https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing)
+- 📄 My CV and experiences: [Resume and Degrees](https://drive.google.com/drive/folders/1P_ANnLn5LX8IYO6x7Krj8JN_gDzdwCuz?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
