@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
+<img width="5799" height="53" alt="image" src="https://github.com/user-attachments/assets/b0e3ebf8-fb10-44f4-8a77-58a7cfdb1295" /><h1 align="center">Hi 👋, I'm Giã Long Bảo Hưng</h1>
 <h3 align="center">Aspiring Financial Analyst/Data Analyst from Vietnam</h3>
 
-- 🌱 I hold a **Master's Degree in Finance** and have completed studies in **Data Analysis, Machine Learning, and Business Intelligence** from CoderSchool.
+- 🌱 With **4 years** of experience in banking operations and financial reporting, and **1 year** as a **Data Analyst in the HR domain**, I bring strong expertise in financial management and data analytics. I hold a **Master’s degree in Finance** and a **Data Analyst certification** from CoderSchool. In my recent role, I enhanced my skills in BI reporting, machine learning models, and data-driven storytelling through impactful presentations. My career goal is to grow as a **Professional Analyst**—someone who can provide clear, actionable answers to the question: “What is happening across the company?”
+.
 - 🔭 Featured Project: **[VNINDEX Forecast Project](https://drive.google.com/drive/folders/1u8slNpAD5hwDxLvj3G6ulLf6ITLCa0jO?usp=drive_link)**
  **Project Overview**:
   - **Description**: This project involves building a SARIMA (Seasonal AutoRegressive Integrated Moving Average) model to forecast the VNINDEX (Vietnam Stock Index) using 10 years of weekly historical data. The goal was to predict future index values and evaluate the model's accuracy using various statistical tests and error metrics.
